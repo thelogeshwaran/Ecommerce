@@ -1,0 +1,13 @@
+.productContent {
+  display: flex;
+  overflow: hidden;
+}
+
+.filter {
+  flex: 0.2;
+  height: 100vh;
+}
+
+.products {
+  flex: 0.8;
+}

@@ -1,0 +1,10 @@
+.filterContent {
+  border: 2px solid red;
+  height: 100%;
+  padding-top: 20px;
+}
+
+.clear {
+  margin: 10px;
+  cursor: pointer;
+}
